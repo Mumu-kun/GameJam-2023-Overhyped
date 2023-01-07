@@ -22,3 +22,4 @@ Download and extract the zip from Releases.
 Run main.exe
 
 Game Assets collected from itch.io explicitly tagged as "free" 
+Font from dafont.com
