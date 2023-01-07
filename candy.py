@@ -444,7 +444,7 @@ class Game:
             if event.type == self.heal_event_type:
                 self.health_real += 4
             if event.type == self.dmg_event_type:
-                self.health_real -= 12
+                self.health_real -= 8
 
             if event.type == pygame.MOUSEBUTTONDOWN:
                 if not self.spawn_flag and self.slingshot_head.collidepoint(event.pos):
