@@ -3,11 +3,11 @@ GameJam 2023 submission from Team Overhyped
 
 Game Name : Overhyped
 
-Team members :
-- Mustafa Muhaimin
-- Farihan Israq
-- Tamzeed Mahfuz
-- Ali Asif Khan
+Team members :  
+- Mustafa Muhaimin  : https://github.com/Mumu-kun
+- Farihan Israq     : https://github.com/Othiya
+- Tamzeed Mahfuz    : https://github.com/sleepytmzd
+- Ali Asif Khan     : https://github.com/SeveredAsif
 
 Game installation:
 
@@ -22,9 +22,4 @@ Download and extract the zip from Releases.
 Run main.exe
 
 Game Assets collected from itch.io explicitly tagged as "free" 
-Font from dafont.com
-
-Created in collaboration with:
-- Farihan Israq   : https://github.com/Othiya
-- Tamzeed Mahfuz  : https://github.com/sleepytmzd
-- Ali Asif Khan   : https://github.com/SeveredAsif
+Font from dafont.com  
