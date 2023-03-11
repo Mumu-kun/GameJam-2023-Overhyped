@@ -23,3 +23,8 @@ Run main.exe
 
 Game Assets collected from itch.io explicitly tagged as "free" 
 Font from dafont.com
+
+Created in collaboration with:
+Farihan Israq   : https://github.com/Othiya
+Tamzeed Mahfuz  : https://github.com/sleepytmzd
+Ali Asif Khan   : https://github.com/SeveredAsif
